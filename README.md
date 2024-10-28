@@ -14,3 +14,4 @@ Regardez notre présentation en vidéo pour voir le tout premier prototype en ac
 
 
 
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/b155f081-015a-492e-b40b-2efbbbd5a476">
