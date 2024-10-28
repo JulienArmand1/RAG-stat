@@ -1,19 +1,16 @@
-# 🎉 Projet Super Génial
+# 🎉  Où ski sont les données!
 
-Bienvenue dans le **Projet Super Génial** ! 🚀 Ce projet est conçu pour simplifier la vie des développeurs et vous aider à atteindre vos objectifs en un temps record ! Découvrez comment nos fonctionnalités peuvent transformer votre manière de travailler.
+Bienvenue dans **Le projet où ski sont les données** ! 
+🚀 Ce projet a pour objectif de simplifier la recherche de statistiques produites par Statistqiue Canada
+En utilisant le retrieval augmented generation (rag), l'application générera un résumé statistique en s'eubreuvant direcement des rapports d'analyse de Statistique Canada
 
 ![Bannière du Projet](https://your-image-url.com/banner.png)
 
 ## 🎬 Démonstration Vidéo
 
-Regardez notre présentation en vidéo pour voir le projet en action !  
-[![Regarder sur YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+Regardez notre présentation en vidéo pour voir le tout premier prototype en action !  
+[![Regarder sur YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/WMAcnY7T6Ds?si=OIk4G-LuDMhNG3gK))
 
-## 🌟 Fonctionnalités
 
-Notre projet propose plusieurs fonctionnalités clés qui en font un outil indispensable pour les développeurs :
 
-### 1. ⚙️ Configuration Facile
-Une seule ligne de code pour installer le projet et le configurer !  
-```bash
-npm install super-genial
+
