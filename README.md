@@ -12,6 +12,5 @@ Regardez notre présentation en vidéo pour voir le tout premier prototype en ac
 [![Regarder sur YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/WMAcnY7T6Ds?si=OIk4G-LuDMhNG3gK))
 
 
-
-
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/b155f081-015a-492e-b40b-2efbbbd5a476">
+
